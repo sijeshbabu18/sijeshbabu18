@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sijeshbabu
+- 👋 Hi, I’m sijeshbabu
 - 👀 I’m interested in C#
 - 🌱 I’m currently learning Web Development
 
